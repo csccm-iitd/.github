@@ -1,7 +1,7 @@
 # Welcome to Center for Scientific Computing and Computational Mechanics (CSCCM) at Indian Institute of Technology (IIT) Delhi.
 This page evolves as fast as our algorithms do. 🚀
 
-We are a research group at the forefront of **scientific machine learning**, dedicated to building **scalable, physics-informed, physics-inspired, and physics-augmented algorithms** that accelerate simulation, prediction, and decision-making in complex physical systems. Our core philosophy: **"Let physics guide the learning, and let learning scale the physics-based solvers."**
+We are a research group at the forefront of **scientific machine learning**, dedicated to building **scalable, physics-inspired machine learning algorithms** that accelerate simulation, prediction, and decision-making in complex physical systems. Our core philosophy: **"Let physics guide the learning, and let learning scale the physics-based solvers."**
 
 ---
 
