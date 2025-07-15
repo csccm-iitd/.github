@@ -13,4 +13,4 @@ In this thrust area, we work on developing scalable scientific machine learning 
 --**Thrust Area III: Uncertainty Quantification And Reliability Analysis**
 Lastly, in the thrid thrust area, we work on **UQ for ML and ML for UQ**. Some representative work includes, (a) Gaussian Process Operator, (b) Distribution-free UQ in neural operator, and (c) Time-dependent reliability analysis with neural operator.
 
-**The three thrust areas closely interacts with each other**.
+**The three thrust areas closely interacts with each other**. We aim for a future where **machines autonomously discover physical laws, reason about the unknown, and collaborate with humans in real-time scientific exploration**
